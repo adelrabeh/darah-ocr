@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+publish/
+wwwroot/
+
+## Node
+node_modules/
+dist/
+.env
+.env.local
+
+## Uploads
+uploads/
+tessdata/
+
+## OS
+.DS_Store
+Thumbs.db

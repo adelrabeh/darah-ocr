@@ -1,0 +1,6 @@
+@DarahOcr.Api_HostAddress = http://localhost:5223
+
+GET {{DarahOcr.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
